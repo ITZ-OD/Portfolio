@@ -1,0 +1,21 @@
+.header{
+    background-color: #8500d7;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: left;
+}
+#navbar{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.main2{
+    text-align: right;
+}

@@ -11,11 +11,62 @@ nav{
     justify-content: flex-start;
 
 }
-div{
-  padding: 10px;
-  justify-content: space-around;
+#home{
+    padding: 10px;
+    justify-content: space-around;
+}
+#about{
+    padding: 10px;
+    justify-content: space-around;
+}
+#projects{
+    padding: 10px;
+    justify-content: space-around;
 }
 body{
-    background-color: #8500d7;
-    font-family: Arial, sans-serif;
+
+}
+.galaxy{
+    height: 100vh;
+    width: 100%;
+    background: #000000;
+    overflow: hidden;
+    position: absolute;
+    background:repeating-radial-gradient(circle, #db10ea 0%, #061b5b 50%,#000000 100%);
+    z-index: -1;
+}
+.stars{
+    height: 2px;
+    width: 2px;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    background-color: #fff;
+    box-shadow: 20vw 10vh 0 1px #fff,
+    35vw 25vh 0 1px #dbeafe,
+    50vw 8vh 0 2px #fff,
+    65vw 40vh 0 1px #fff,
+    80vw 15vh 0 1px #c7d2fe,
+    12vw 60vh 0 2px #fff,
+    28vw 78vh 0 1px #fff,
+    44vw 52vh 0 1px #e0e7ff,
+    58vw 68vh 0 2px #fff,
+    74vw 83vh 0 1px #fff,
+    90vw 55vh 0 1px #bfdbfe,
+    6vw 30vh 0 1px #fff;
+}
+.star{
+    height: 2px;
+    width: 2px;
+    border-radius: 50%;
+    position: absolute;
+    background-color: #fff;
+    a
+}
+.main1{
+    color: #fff;
+}
+.main2{
+    color: #fff;
 }

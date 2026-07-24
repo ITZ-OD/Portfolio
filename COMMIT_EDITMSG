@@ -1,18 +1,3 @@
+ver 3
 
-# Please enter the commit message for your changes. Lines starting
-# with '#' will be ignored, and an empty message aborts the commit.
-#
-# On branch main
-# Changes to be committed:
-#	renamed:    .gitattributes -> git stuff/.gitattributes
-#	new file:   git stuff/README.md
-#	renamed:    script.js -> javascript/script.js
-#	new file:   webpages/aboutme.html
-#	renamed:    index.html -> webpages/index.html
-#	new file:   webpages/project.html
-#	new file:   webpages/style.css
-#
-# Changes not staged for commit:
-#	deleted:    README.md
-#	deleted:    style.css
-#
+x

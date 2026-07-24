@@ -1,17 +1,21 @@
 .header{
-    background-color: #8500d7;
+    background-color: #d5ab01;
     color: rgb(0, 0, 0);
     padding: 10px;
     display: flex;
-    flex-direction: row;
-    align-items: left;
+
 }
 nav{
     padding: 10px;
     display: flex;
-    justify-content: space-around;
+    justify-content: flex-start;
+
 }
 div{
-    padding: 10px;
-    
+  padding: 10px;
+  justify-content: space-around;
+}
+body{
+    background-color: #8500d7;
+    font-family: Arial, sans-serif;
 }

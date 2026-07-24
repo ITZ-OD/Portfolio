@@ -6,16 +6,12 @@
     flex-direction: row;
     align-items: left;
 }
-#navbar{
+nav{
+    padding: 10px;
     display: flex;
-    flex-direction: row-reverse;
-    justify-content: space-evenly;
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    
+    justify-content: space-around;
 }
-
-.main2{
-    text-align: right;
+div{
+    padding: 10px;
+    
 }

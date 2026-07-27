@@ -62,7 +62,7 @@ body{
     border-radius: 50%;
     position: absolute;
     background-color: #fff;
-    a
+    animation: twinkle 2s infinite alternate;
 }
 .main1{
     color: #fff;
